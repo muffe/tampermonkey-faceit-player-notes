@@ -1,9 +1,9 @@
 // ==UserScript==
 // @name         Faceit Player Notes
-// @namespace    http://tampermonkey.net/
+// @namespace    muffe
 // @version      1.0
 // @description  Add notes to Faceit players
-// @author       You
+// @author       muffe
 // @match        https://www.faceit.com/*
 // @grant        none
 // ==/UserScript==
